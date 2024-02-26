@@ -1,7 +1,7 @@
 ### About me :
 
 - Education: I’m currently studying IT at Thuy Loi University
-- How to reach me: `[Email](chatran2202@gmail.com)`
+- How to reach me: * chatran2202@gmail.com *
 
 ### Languages and Tools :
 
